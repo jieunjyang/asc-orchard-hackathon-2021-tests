@@ -99,34 +99,34 @@ const howRepetitiveAreYou = (lyrics, word) => {
   }
   return wordCount;
 };
-console.log(howRepetitiveAreYou(`came through drippin' (drip drip)
-    came through drippin' (drip drip)
-    came through drippin' (drip drip)
-    diamonds on my wrist, they drippin' (ice)
-    came through drippin' (drip drip)
-    came through drippin' (drip drip)
-    came through drippin' (drip drip)
-    diamonds on my wrist, they drippin' (ice)
-    came through drippin' (drip drip)
-    came through drippin' (drip drip)
-    came through drippin' (drip drip)
-    diamonds on my wrist, they drippin' (ice)
-    came through drippin' (drip drip)
-    came through drippin' (drip drip)
-    came through drippin' (drip drip)
-    diamonds on my wrist, they drippin' (ice)`,
-    'drippin'
-));
-console.log(howRepetitiveAreYou(`huh, because i'm happy
-    clap along if you feel like a room without a roof
-    because i'm happy
-    clap along if you feel like happiness is the truth
-    because i'm happy
-    clap along if you know what happiness is to you
-    because i'm happy
-    clap along if you feel like that's what you wanna do`,
-    'happy'
-));
+// console.log(howRepetitiveAreYou(`came through drippin' (drip drip)
+//     came through drippin' (drip drip)
+//     came through drippin' (drip drip)
+//     diamonds on my wrist, they drippin' (ice)
+//     came through drippin' (drip drip)
+//     came through drippin' (drip drip)
+//     came through drippin' (drip drip)
+//     diamonds on my wrist, they drippin' (ice)
+//     came through drippin' (drip drip)
+//     came through drippin' (drip drip)
+//     came through drippin' (drip drip)
+//     diamonds on my wrist, they drippin' (ice)
+//     came through drippin' (drip drip)
+//     came through drippin' (drip drip)
+//     came through drippin' (drip drip)
+//     diamonds on my wrist, they drippin' (ice)`,
+//     'drippin'
+// ));
+// console.log(howRepetitiveAreYou(`huh, because i'm happy
+//     clap along if you feel like a room without a roof
+//     because i'm happy
+//     clap along if you feel like happiness is the truth
+//     because i'm happy
+//     clap along if you know what happiness is to you
+//     because i'm happy
+//     clap along if you feel like that's what you wanna do`,
+//     'happy'
+// ));
 // console.log(howRepetitiveAreYou(`work, work, work, work, work, work
 //     you see me i be work, work, work, work, work, work
 //     you see me do me dirt, dirt, dirt, dirt, dirt, dirt
