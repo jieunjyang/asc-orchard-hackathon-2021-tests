@@ -7,7 +7,8 @@ const newSingle = (single) => {
 // console.log(newSingle('Mood'));
 
 const eresBadBunny = (name) => {
-  if (name.toLowerCase() === 'bad bunny') return true;
+  if (name.toLowerCase() === 'bad bunny')
+      return true;
   return false;
 };
 // console.log(eresBadBunny('Bd Bunny'));
